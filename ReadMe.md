@@ -54,6 +54,7 @@ Install **Bochs** and run **make run**
 * [Hurlex II](https://github.com/hurley25/Hurlex-II)
 * [TedkOS](https://github.com/TakefiveInteractive/TedkOS)
 * [LiteOS](https://gitee.com/LiteOS)
+* [rt-thread](https://github.com/RT-Thread/rt-thread)
 
 ### [Linux](https://github.com/torvalds/linux)
 
