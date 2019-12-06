@@ -12,6 +12,7 @@ Install **Bochs** and run **make run**
 - [ ] [The little book about OS development](https://littleosbook.github.io/)
 - [ ] [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/)
 - [ ] [30 day Make OS](https://github.com/yourtion/30dayMakeOS)
+- [ ] [Writing an OS in Rust](https://os.phil-opp.com/)
 - [ ] [Shichao's Notes](https://notes.shichao.io)
 - [ ] [How to write a simple operating system](http://mikeos.sourceforge.net/write-your-own-os.html)
 - [ ] [Operating Systems Study Guide](http://faculty.salina.k-state.edu/tim/ossg)
@@ -55,6 +56,7 @@ Install **Bochs** and run **make run**
 * [TedkOS](https://github.com/TakefiveInteractive/TedkOS)
 * [LiteOS](https://gitee.com/LiteOS)
 * [rt-thread](https://github.com/RT-Thread/rt-thread)
+* [rCore](https://github.com/rcore-os/rCore)
 
 ### [Linux](https://github.com/torvalds/linux)
 
