@@ -43,6 +43,7 @@ Install **Bochs** and run **make run**
 
 * [Linux 0.01](https://mirrors.edge.kernel.org/pub/linux/kernel/Historic/)
 * [MS DOS](https://github.com/microsoft/MS-DOS)
+* [Biscuit research OS](https://github.com/mit-pdos/biscuit)
 * [Boot OS](https://github.com/nanochess/bootOS)
 * [IncludeOS](https://github.com/includeos/IncludeOS)
 * [BareMetal-OS-legacy](https://github.com/ReturnInfinity/BareMetal-OS-legacy)
